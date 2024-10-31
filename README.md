@@ -1,7 +1,6 @@
 ## Parts of Speech Tagging with nltk
 
 ### Subjects & Challenges:
-- 
 - Corpus-> Paragraph
 - Documents -> Sentence
 - Vocabulary -> Unique words
